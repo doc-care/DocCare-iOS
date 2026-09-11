@@ -1,1 +1,0 @@
-AE Doctor iOS App
